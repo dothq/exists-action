@@ -1,4 +1,4 @@
-name: Exists
+name: File or Directory Exists
 author: Dot HQ
 description: Checks if a file or directory exists
 
