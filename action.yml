@@ -12,5 +12,5 @@ runs:
   main: index.js
 
 branding:
-    icon: activity
-    color: gray-dark
+    icon: file-text
+    color: white
